@@ -46,6 +46,7 @@
 #pragma warning(disable: 4996) // POSIX functions are just fine, thanks
 #endif
 
+#define XING_TEST (1)
 namespace X265_NS {
 const char g_sliceTypeToChar[] = {'B', 'P', 'I'};
 
